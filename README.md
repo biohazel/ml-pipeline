@@ -52,7 +52,6 @@ A concise and modular **Machine Learning pipeline** using the famous **Iris data
    - [Model Training & Evaluation](#model-training--evaluation)  
    - [Deployment (Flask)](#deployment-flask)  
 6. [Future Improvements](#future-improvements)  
-7. [License](#license)
 
 ## Project Structure
 
