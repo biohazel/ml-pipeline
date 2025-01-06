@@ -83,7 +83,7 @@ ml-pipeline/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/<YourUsername>/ml-pipeline.git
+   git clone https://github.com/biohazel/ml-pipeline.git
    cd ml-pipeline
    ```
 
